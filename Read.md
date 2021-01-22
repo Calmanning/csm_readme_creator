@@ -1,4 +1,4 @@
-# Employee Database
+# Team Profile Generator
 ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
 
 ## Description 
@@ -24,7 +24,7 @@ PROJECT DESCRIPTION
 To install necesarry dependencies, run the following in your terminal:
 
 
-npm install mysql inquirer
+npm i
 
 
 ## Usage 
@@ -37,14 +37,14 @@ This project is licensed under the None license.
 
 ## Contributing
 
-fork and pull, if you like.
+You just have to fork it and pull it.
 
 ## Test
 
 Enter the following to run tests on this project:
 
 
-No tests available on this application
+npm test
 
 
 ## Questions
